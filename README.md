@@ -1,0 +1,2 @@
+# calculator
+Coś ze szkolenia

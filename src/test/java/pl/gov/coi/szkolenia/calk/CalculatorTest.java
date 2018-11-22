@@ -39,4 +39,9 @@ public class CalculatorTest {
         assertEquals(1,calc.substract(2,1));
     }
 
+    @Test
+    public void testDzielenie(){
+        Calculator calc = new Calculator();
+        assertEquals(2,calc.dzielenie(4,2));
+    }
 }

@@ -25,8 +25,6 @@ public class CalculatorTest {
 
         int a = 4;
         int b = 1;
-        int c = 4;
-        int d = 8;
 
         Calculator calc = new Calculator();
 

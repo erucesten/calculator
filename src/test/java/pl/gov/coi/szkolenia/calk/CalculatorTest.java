@@ -25,6 +25,8 @@ public class CalculatorTest {
 
         int a = 4;
         int b = 1;
+        int c = 4;
+        int d = 8;
 
         Calculator calc = new Calculator();
 
@@ -42,6 +44,6 @@ public class CalculatorTest {
     @Test
     public void testDzielenie(){
         Calculator calc = new Calculator();
-        assertEquals(2,calc.dzielenie(4,2));
+        assertEquals(2,calc.dzielenie(8,4));
     }
 }

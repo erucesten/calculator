@@ -17,7 +17,7 @@ public class Calculator {
         return a/b;
     }
 
-    public int dzielenieBy10(int a)  {
-        return a/100;
+    public int dzielenieBy1000(int a)  {
+        return a/1000;
     }
 }

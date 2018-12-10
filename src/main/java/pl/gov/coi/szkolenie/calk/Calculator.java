@@ -16,4 +16,8 @@ public class Calculator {
     public int dzielenie(int a, int b)  {
         return a/b;
     }
+
+    public int dzielenieBy10(int a)  {
+        return a/10;
+    }
 }

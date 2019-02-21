@@ -53,11 +53,6 @@
                             </goals>
                         </execution>
                     </executions>
-                    <configuration>
-                        <includes>
-                            <include>pl/gov/coi/**</include>
-                        </includes>
-                    </configuration>
                 </plugin>
             </plugins>
         </build>
